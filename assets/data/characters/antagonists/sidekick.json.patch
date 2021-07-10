@@ -1,0 +1,70 @@
+[{
+	"type": "ENTER",
+	"index": "face"
+}, 
+{
+	"type": "INIT_KEY",
+	"index": "subImages",
+	"content": {
+		
+	}
+},
+{
+	"type": "ENTER",
+	"index": "subImages"
+},
+{
+	"type": "SET_KEY",
+	"index": "ex2-joern",
+	"content": "ex2-joern.png"
+}, 
+{
+	"type": "EXIT",
+	"count": 1
+}, 
+
+
+{
+	"type": "ENTER",
+	"index": ["parts", 2]
+}, 
+{
+	"type": "SET_KEY",
+	"index": "ex2_upTranquil",
+	"content": {
+		"srcX": 0,
+		"srcY": 0,
+		"width": 72,
+		"height": 64,
+		"destX": 64,
+		"destY": 16,
+		"img": "ex2-joern"
+    }
+}, 
+{
+	"type": "EXIT",
+	"count": 2
+}, 
+
+
+{
+	"type": "ENTER",
+	"index": "expressions"
+}, 
+{
+	"type": "SET_KEY",
+	"index": "EX2_TRANQUIL",
+	"content": {
+	    "faces": [
+	      [
+			  "straight",
+			  "up",
+			  "ex2_upTranquil"
+	      ]
+	    ]
+    }
+}, 
+{
+	"type": "EXIT",
+	"count": 2
+}]

@@ -1,0 +1,96 @@
+[{
+	"type": "ENTER",
+	"index": "face"
+}, 
+{
+	"type": "INIT_KEY",
+	"index": "subImages",
+	"content": {
+		
+	}
+},
+{
+	"type": "ENTER",
+	"index": "subImages"
+},
+{
+	"type": "SET_KEY",
+	"index": "ex2-luke",
+	"content": "ex2-luke.png"
+}, 
+{
+	"type": "EXIT",
+	"count": 1
+}, 
+
+
+{
+	"type": "ENTER",
+	"index": ["parts", 2]
+}, 
+{
+	"type": "SET_KEY",
+	"index": "ex2_towardsSidewink",
+	"content": {
+		"srcX": 0,
+		"srcY": 0,
+		"width": 80,
+		"height": 64,
+		"destX": 40,
+		"destY": 40,
+		"img": "ex2-luke"
+    }
+}, 
+{
+	"type": "SET_KEY",
+	"index": "ex2_upImpressed",
+	"content": {
+		"srcX": 0,
+		"srcY": 64,
+		"width": 80,
+		"height": 64,
+		"destX": 40,
+		"destY": 40,
+		"img": "ex2-luke"
+    }
+}, 
+{
+	"type": "EXIT",
+	"count": 2
+}, 
+
+
+{
+	"type": "ENTER",
+	"index": "expressions"
+}, 
+{
+	"type": "SET_KEY",
+	"index": "EX2_SIDE_WINK",
+	"content": {
+	    "faces": [
+	      [
+			  "folded",
+			  "towards",
+			  "ex2_towardsSideWink"
+	      ]
+	    ]
+    }
+}, 
+{
+	"type": "SET_KEY",
+	"index": "EX2_IMPRESSED_UP",
+	"content": {
+	    "faces": [
+	      [
+			"folded",
+			"up",
+			"ex2_upImpressed"
+	      ]
+	    ]
+    }
+}, 
+{
+	"type": "EXIT",
+	"count": 2
+}]
