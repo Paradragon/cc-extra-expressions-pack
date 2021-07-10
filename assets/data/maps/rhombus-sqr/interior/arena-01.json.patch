@@ -224,6 +224,10 @@
                                     "name": "sergeyMode"
                                 },
                                 {
+                                    "type": "RESUME_BGM",
+                                    "mode": "MEDIUM"
+                                },
+                                {
                                     "person": {
                                         "person": "main.lea",
                                         "expression": "EXHAUSTED"
