@@ -30,7 +30,7 @@
 }, 
 {
 	"type": "SET_KEY",
-	"index": "ex2_towardsSidewink",
+	"index": "ex2_towardsSideWink",
 	"content": {
 		"srcX": 0,
 		"srcY": 0,

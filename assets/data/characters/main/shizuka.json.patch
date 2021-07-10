@@ -59,7 +59,7 @@
 	"index": "ex2_downPissed",
 	"content": {
 		"srcX": 0,
-		"srcY": 114,
+		"srcY": 112,
 		"width": 96,
 		"height": 56,
 		"destX": 0,
@@ -176,10 +176,13 @@
 			0,
 			0,
 			0,
+			0,
+			0,
+			0,
 			1,
 			2
 		],
-		"time": 0.1,
+		"time": 0.15,
 	    "faces": [
 			[
 				"straight",
