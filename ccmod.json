@@ -1,0 +1,10 @@
+{
+  "id": "cc-extra-expressions-pack",
+  "title": "Extra Expressions Pack",
+  "version": "0.1.0",
+
+  "homepage": "https://github.com/Paradragon/cc-extra-expressions-pack",
+  "icons": {
+    "24": "icon.png"
+  }
+}
