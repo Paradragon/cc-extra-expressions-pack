@@ -28,7 +28,7 @@ jobs:
         
       - name: Create release
         run: |
-          gh release create ${{ steps.get_version.outputs.VERSION }} -t "CCED ${{ steps.get_version.outputs.VERSION }}" ${{ env.FILES }}
+          gh release create ${{ steps.get_version.outputs.VERSION }} -t "CC Extra Expressions Pack ${{ steps.get_version.outputs.VERSION }}" ${{ env.FILES }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FILES: cc-extra-expressions-pack.ccmod cc-extra-expressions-pack.tar.gz
