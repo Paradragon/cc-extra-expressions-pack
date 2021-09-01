@@ -10,7 +10,7 @@ Once CCLoader is installed, [download a release](https://github.com/Paradragon/c
 
 ## Mod conflicts
 There are no known mod conflicts.  
-Although mods that switch playable character, obviously, lack proper support.
+Although mods that switch playable character or change default expression sprites, naturally, lack proper support.
 
 # What does it do, exactly?
 By itself, EX2 has no effect on the game and so is only useful as a resource dependency for other mods. 
@@ -60,9 +60,5 @@ The only exception to this rule may be subtle edits of sprite sheets to correct 
 # Feature requests
 We don't accept spritework requests for EX2. Not that there will be any, but still...
 
-A new expression (out of existing parts) or animation may be added to EX2 based on a request, but then... there is little point, since mod developer can do it themselves in their mod.
-
 # Contribution
 We are open to pull requests, if you want to include new parts, expressions or anything else, really.
-
-Just make sure it adheres to the unspoken rule of quality and being ***Safe for Work***. A good example of biggest offender is Lea's `EX2_EMBARRASSED`, which was on the verge of not being included.
