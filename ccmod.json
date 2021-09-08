@@ -1,8 +1,8 @@
 {
   "id": "cc-extra-expressions-pack",
   "title": "Extra Expressions Pack",
-  "version": "0.1.0",
-
+  "version": "0.2.1",
+  "description": "Provides additional expressions for CrossCode characters. Intended to be used by other mods.",
   "homepage": "https://github.com/Paradragon/cc-extra-expressions-pack",
   "icons": {
     "24": "icon.png"
