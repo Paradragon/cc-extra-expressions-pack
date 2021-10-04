@@ -1,7 +1,9 @@
 # CrossCode Extra Expressions Pack (EX2)
-This mod provides additional expressions for CrossCode characters and intended to be used as resource by other mods. 
+This mod adds additional expressions for CrossCode characters and was intended to be used as a resource package by other mods. 
 
 It does not require a New Home DLC, nor will it cause any errors if it's not installed.
+
+There are no plans for it's further expansion due to burnout and lack of demand.
 
 ## Installation
 This mod requires [CCLoader](https://github.com/CCDirectLink/CCLoader) which you can either install manually or use the [CCLoader installer](https://github.com/CCDirectLink/ccloader-installer).
@@ -36,7 +38,7 @@ Therefore, the idea of EX2 is to provide a bit more flexibility and color when c
 
 # Where can new expressions be viewed
 ## External
-External preview of all new expressions and parts, along with their names for quick reference is **planned for v1.0 (end of Q4)**.
+External preview of all new expressions and parts, along with their names for quick reference **is not going to be added**.
   
 You can still look through added spritesheets [here](https://github.com/Paradragon/cc-extra-expressions-pack/tree/main/assets/media/face) or check parts and expressions names [in patchsteps](https://github.com/Paradragon/cc-extra-expressions-pack/tree/main/assets/data/characters), but this is less than ideal. At this point in time, we suggest using in-game method, described below.
 
@@ -45,20 +47,3 @@ You can still look through added spritesheets [here](https://github.com/Paradrag
 You can preview all new expressions with their names by interacting with the console in the internal test area, accessed by the following command `ig.game.teleport("ex2_testarea")`.  
 
 **By default, there is no other way to access test area without console.**
-
-# Moving forward
-Life is complicated, so no promises. Overtime, new parts and expressions **may** be added. Most notably this depends on availability of the following: 
-- Interesting idea.
-- Inspiration to draw.
-- Drawing ability to property convey it.
-- Free time. 
-
-This mod is intended to have full backward compatibility with it's previous versions. That means if an expression or part is added to **public EX2 release**, their definition in [patchsteps](https://github.com/Paradragon/cc-extra-expressions-pack/tree/main/assets/data/characters) will not be changed afterwards. This allows newer versions of EX2 to be used as dependency even if an older one is required without fear of breaking anything.
-
-The only exception to this rule may be subtle edits of sprite sheets to correct some graphical mistakes or touch up on appearance. Let us be honest, author is as good in pixel art as any other amateur is. Even so, this will be limited to correcting mistakes.
-
-# Feature requests
-We don't accept spritework requests for EX2. Not that there will be any, but still...
-
-# Contribution
-We are open to pull requests, if you want to include new parts, expressions or anything else, really.
